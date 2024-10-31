@@ -84,3 +84,9 @@ Our adjusted r squared for LEN~WEIGHT is 0.7423.
 
 ## Compare all models that predict LENGTH other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
 
+The models listed from worst to best are...
+LENGTH~AGE, the r squared is 0.5073
+LENGTH~HEADWTH, the r squared is 0.5321
+LENGTH~WEIGHT, the r squared is 0.7423
+LENGTH~CHEST, the r squared is 0.7869
+LENGTH~HEADLEN, the r squared is 0.8434
